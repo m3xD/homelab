@@ -1,4 +1,4 @@
-module git.khuedoan.com/khuedoan/homelab/platform/secret-generator
+module git.m3xd.dev/khuedoan/homelab/platform/secret-generator
 
 go 1.19
 
